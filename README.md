@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">Engineering @ Shopify, Computer Science @ uWaterloo</h3>
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🔭 I’m currently working on [Contractual](https://www.contractual.ca)
 
