@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/tpypan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="tpypan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tony-py-pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tony-py-pan" height="30" width="40" /></a>
-<a href="https://instagram.com/7onypan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7onypan" height="30" width="40" /></a>
+<a href="https://x.com/tpypan" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="tpypan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tony-py-pan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tony-py-pan" height="30" width="40" /></a>
+<a href="https://instagram.com/7onypan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="7onypan" height="30" width="40" /></a>
 </p>
+
